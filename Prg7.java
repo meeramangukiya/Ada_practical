@@ -52,3 +52,10 @@ class Kruskal {
         System.out.println("Total Weight: " + total);
     }
 }
+/*
+Edges in MST:
+2 - 3 : 4
+0 - 3 : 5
+0 - 1 : 10
+Total Weight: 19
+*/
