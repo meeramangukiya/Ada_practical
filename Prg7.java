@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Kruskal {
+class prg7{
     static int find(int parent[], int i) {
         if (parent[i] == i)
             return i;
